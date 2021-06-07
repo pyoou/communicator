@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+
+#media folder
+media/ 
+
+# txt files
+sekret_key.txt
+sekret_key
+django/secret_key.txt
+commands.txt
+
+venv/
+.venv/
+venv
